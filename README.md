@@ -53,6 +53,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishadhingra/)
 
-<a href="https://github.com/nishadhingra3" class="button" target=_blank>Github</a>
+[![Github](https://img.shields.io/badge/GitHub-profile-white)](https://github.com/nishadhingra3)
 
 
