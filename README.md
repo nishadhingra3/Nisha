@@ -49,10 +49,12 @@
 * patience
 * empathy
 
-## Contact
+## Let's Connect
+[![Email](https://img.shields.io/badge/Email-nishadhingra3@gmail.com-green)](mailto:nishadhingra3@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishadhingra/)
 
 [![Github](https://img.shields.io/badge/GitHub-profile-white)](https://github.com/nishadhingra3)
 
+[![Topmate](https://img.shields.io/badge/Topmate-Profile-red)](https://topmate.io/nisha_dhingra/)
 
