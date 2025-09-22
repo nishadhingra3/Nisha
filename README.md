@@ -7,7 +7,7 @@
 📍 Bangalore, India
 </p>
 
-# Languages and Tools
+# Tech Stack
 
 <h2>
 <p align="left">
@@ -49,7 +49,7 @@
 * patience
 * empathy
 
-## Let's Connect
+## Reach Me
 [![Email](https://img.shields.io/badge/Email-nishadhingra3@gmail.com-green)](mailto:nishadhingra3@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishadhingra/)
